@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Master",
+      "email": "master@email.com",
+      "senha": "123456M"
+    },
+    {
+      "id": 2,
+      "name": "Admin",
+      "email": "admin@email.com",
+      "senha": "123456A"
+    },
+    {
+      "id": 3,
+      "name": "User",
+      "email": "user@email.com",
+      "senha": "123456U"
+    },
+    {
+      "id": 4,
+      "name": "user",
+      "email": "wfrauches89@gmail.com",
+      "senha": "123456789"
+    }
+  ]
+}
